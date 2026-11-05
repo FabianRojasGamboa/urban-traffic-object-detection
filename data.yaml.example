@@ -1,0 +1,7 @@
+# Adapt these paths after obtaining and organizing the dataset.
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+nc: 9
+names: [ambulance, bicycle, bus, car, motorcycle, person, truck, traffic light, signal]
